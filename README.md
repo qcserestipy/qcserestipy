@@ -19,6 +19,7 @@
 | Project | Description | Tech |
 | :------ | :---------- | :--- |
 | [harbor-cli](https://github.com/qcserestipy/harbor-cli) | Forked official Harbor CLI with extended commands | Go |
+| [gohpc](https://github.com/qcserestipy/gohpc) | A lightweight High-Performance Computing toolkit for Go | Go |
 | [harbor-operator](https://github.com/qcserestipy/harbor-operator) | Kubernetes operator to install/manage Harbor components | Go |
 | [eks-cdk-pipeline](https://github.com/qcserestipy/eks-cdk-pipeline) | Opinionated AWS CDK pipeline for EKS clusters | Python |
 | [argocd-helm](https://github.com/qcserestipy/argocd-helm) | Helm helper scripts for Argo CD development | Helm |
